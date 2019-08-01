@@ -1,0 +1,19 @@
+.product-header{
+    background: #00b38a;
+}
+.product-header header{
+    width: 1140px;
+    margin: 0 auto;
+}
+.product-header ul{
+    padding: 20px 0;
+}
+.product-header li{
+    float: left;
+    margin-left: 20px;
+}
+.product-header li a{
+    color:#ffffff;
+}
+
+

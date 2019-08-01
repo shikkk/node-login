@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  #box.text  狮子
+    - var ary = ['One', 'Two', 'Three']
+    each item in ary
+      if(item === 'One')
+        div(style="color:red")=item
+      else
+        div= item
