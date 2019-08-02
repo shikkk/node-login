@@ -1,5 +1,5 @@
 ## node-login
-node+Express实现登录退出功能
+node+Express+MongoDB实现登录退出功能
 
 ## Getting Start
 git clone git@github.com:shikkk/node-login.git  
